@@ -1,0 +1,31 @@
+---
+:word: emperor
+:guessed_letters:
+- a
+- e
+- i
+- o
+- u
+:available_letters:
+- b
+- c
+- d
+- f
+- g
+- h
+- j
+- k
+- l
+- m
+- "n"
+- p
+- q
+- r
+- s
+- t
+- v
+- w
+- x
+- "y"
+- z
+:tries: 5
